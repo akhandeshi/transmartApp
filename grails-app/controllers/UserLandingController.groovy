@@ -1,6 +1,6 @@
 import org.transmart.searchapp.AccessLog;
 
-/*************************************************************************
+/* ************************************************************************
  * tranSMART - translational medicine data mart
  * 
  * Copyright 2008-2012 Janssen Research & Development, LLC.
@@ -18,8 +18,6 @@ import org.transmart.searchapp.AccessLog;
  * 
  *
  ******************************************************************/
-  
-
 
 /**
  * Central landing zone controller for post login events
